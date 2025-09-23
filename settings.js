@@ -23,7 +23,7 @@ global.ovo = "Tidak tersedia"
 global.gopay = "Tidak tersedia"
 global.qris = "https://files.catbox.moe/wri0uz.jpg"
 
-global.JedaPushkontak = 20000
+global.JedaPushkontak = 30000
 global.JedaJpm = 5000
 
 global.egg = "15" // Isi id egg
